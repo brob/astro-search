@@ -8,7 +8,7 @@ const bookmarks = defineCollection({
         url: z.string(),
         description: z.string().optional()
     }),
-    loader: file("src/utils/bookmarks.json"),
+    loader: file("src/data/bookmarks.json"),
 });
     
 export const collections = { bookmarks };
