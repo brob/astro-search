@@ -1,11 +1,31 @@
 ---
+import { getCollection } from 'astro:content';
 import Welcome from '../components/Welcome.astro';
 import Layout from '../layouts/Layout.astro';
+import Search from '../components/Search.astro';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const bookmarks = await getCollection('bookmarks');
 ---
 
 <Layout>
-	<Welcome />
+	<div class="max-w-3xl mx-auto my-10">
+	<h1 class="text-3xl  text-center">My latest bookmarks</h1>
+	<p class="text-xl text-center mb-5">This is only 10 of {bookmarks.length}</p>
+	<Search />
+
+	<h2 class="text-2xl mb-3">Latest bookmarks</h2>
+	<ul class="grid gap-4">
+	{ bookmarks.slice(0, 10).map(item => (
+		<li><a href={item.data?.url} class="block p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+
+<h3 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+	{item.data?.pageTitle}
+</h3>
+<p class="font-normal text-gray-700 dark:text-gray-400">
+	{item.data?.description}
+	</p>
+</a></li>
+	)) }
+	</ul>
+</div>
 </Layout>

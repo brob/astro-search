@@ -1,0 +1,644 @@
+[
+    {
+      "pageTitle": "Our Favorite Sandwich Bread | King Arthur Baking",
+      "url": "https://www.kingarthurbaking.com/recipes/our-favorite-sandwich-bread-recipe",
+      "description": "Classic American sandwich loaf, perfect for French toast and sandwiches.",
+      "id": "007y8pmEOvhwldfT3wx1MW"
+    },
+    {
+      "pageTitle": "   Chris Coyier's discussion of Automatic Social Share Images | CSS-Tricks  ",
+      "url": "https://css-tricks.com/automatic-social-share-images/",
+      "description": "It's a pretty low-effort thing to get a big fancy link preview on social media. Toss a handful of specific <meta> tags on a URL and you get a big image-title-description thing ",
+      "id": "04CXDvGQo19m0oXERL6bhF"
+    },
+    {
+      "pageTitle": "Automatic Social Share Images | ryanfiller.com",
+      "url": "https://www.ryanfiller.com/blog/automatic-social-share-images/",
+      "description": "Setting up automatic social share images with Puppeteer and Netlify Functions. ",
+      "id": "04CXDvGQo19m0oXERLoC10"
+    },
+    {
+      "pageTitle": "Emma Wedekind: Foundations of Design Systems / React Boston 2019 - YouTube",
+      "url": "https://m.youtube.com/watch?v=pXb2jA43A6k",
+      "description": "Emma Wedekind: Foundations of Design Systems / React Boston 2019 Presented by: Emma Wedekind – LogMeIn Design systems are in the world around us, from street...",
+      "id": "0d56d03e-aba4-4ebd-9db8-644bcc185e33"
+    },
+    {
+      "pageTitle": "Editorial Design Patterns With CSS Grid And Named Columns — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2019/10/editorial-design-patterns-css-grid-subgrid-naming/",
+      "description": "By naming lines when setting up our CSS Grid layouts, we can tap into some interesting and useful features of Grid &mdash; features that become even more powerful when we introduce subgrids.",
+      "id": "13ac1043-1b7d-4a5b-a3d8-b6f5ec34cf1c"
+    },
+    {
+      "pageTitle": "Netlify pro tip: Using Split Testing to power private beta releases - DEV Community 👩‍💻👨‍💻",
+      "url": "https://dev.to/philhawksworth/netlify-pro-tip-using-split-testing-to-power-private-beta-releases-a7l",
+      "description": "Giving users ways to opt in and out of your private betas. Video and tutorial.",
+      "id": "1fbabbf9-2952-47f2-9005-25af90b0229e"
+    },
+    {
+      "pageTitle": "\n          Netlify Public Folder, Part I: What? Recreating the Dropbox Public Folder With Netlify | Jim Nielsen’s Weblog\n        ",
+      "url": "https://blog.jim-nielsen.com/2019/netlify-public-folder-part-i-what/",
+      
+      "id": "2607e651-7b64-4695-8af9-3b9b88d402d5"
+    },
+    {
+      "pageTitle": "Why Is CSS So Weird? - YouTube",
+      "url": "https://m.youtube.com/watch?v=aHUtMbJw8iA&feature=youtu.be",
+      "description": "Love it or hate it, CSS is weird! It doesn't work like most programming languages, and it doesn't work like a design tool either. But CSS is also solving a v...",
+      "id": "2e29aa3b-45b8-4ce4-85b7-fd8bc50daccd"
+    },
+    {
+      "pageTitle": "Internet world despairs as non-profit .org sold for $$$$ to private equity firm, price caps axed • The Register",
+      "url": "https://www.theregister.co.uk/2019/11/20/org_registry_sale_shambles/",
+      
+      "id": "33406b33-c453-44d3-8b18-2d2ae83ee73f"
+    },
+    {
+      "pageTitle": "Netlify Identity for paid subscriptions - Access Control / Identity - Netlify Community",
+      "url": "https://community.netlify.com/t/netlify-identity-for-paid-subscriptions/1947/2",
+      "description": "I want to limit certain functionality on my website to paying users. \nNow I’m using a payment provider (Mollie) similar to Stripe. \nMy idea was to use the webhook fired by this service to call a Netlify function and give&hellip;",
+      "id": "34d6341c-18eb-4744-88e1-cfbf6c1cfa6c"
+    },
+    {
+      "pageTitle": "SmashingConf Freiburg 2019: Videos And Photos — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2019/10/smashingconf-freiburg-2019/",
+      "description": "We had a lovely time at SmashingConf Freiburg. This post wraps up the event and also shares the video of all of the Freiburg presentations.",
+      "id": "354cbb34-b24a-47f1-8973-8553ed1d809d"
+    },
+    {
+      "pageTitle": "Adding Google Calendar to your JAMStack",
+      "url": "https://www.raymondcamden.com/2019/11/18/adding-google-calendar-to-your-jamstack",
+      "description": "A look at using Google APIs to add events to your static site.",
+      "id": "361b20c4-75ce-46b3-b6d9-38139e03f2ca"
+    },
+    {
+      "pageTitle": "\n    How to Contribute to an Open Source Project | CSS-Tricks  ",
+      "url": "https://css-tricks.com/how-to-contribute-to-an-open-source-project/",
+      "description": "The following is going to get slightly opinionated and aims to guide someone on their journey into open source. As a prerequisite, you should have basic",
+      "id": "37300606-af08-4d9a-b5e3-12f64ebbb505"
+    },
+    {
+      "pageTitle": "\n  \n    Functions | Netlify\n  \n",
+      "url": "https://www.netlify.com/docs/functions/",
+      "description": "\n  \n    Netlify builds, deploys, and hosts your front end. Learn how to get started, see examples, and view documentation for the modern web platform.\n  \n",
+      "id": "3bf9e31b-5288-4b3b-89f2-97034603dbf6"
+    },
+    {
+      "pageTitle": "Serverless Can Help You To Focus - By Simona Cotin",
+      "url": "https://hackernoon.com/serverless-can-do-that-7nw32mk",
+      
+      "id": "43b1ee63-c2f8-4e14-8700-1e21c2e0a8b1"
+    },
+    {
+      "pageTitle": "Nuxt, Next, Nest?! My Head Hurts. - DEV Community 👩‍💻👨‍💻",
+      "url": "https://dev.to/laurieontech/nuxt-next-nest-my-head-hurts-5h98",
+      "description": "I clearly know what all of these things are. Their names are not at all similar. But let's review, just to make sure we know...",
+      "id": "456b7d6d-7efa-408a-9eca-0325d996b69c"
+    },
+    {
+      "pageTitle": "Consuming a headless CMS GraphQL API with Eleventy - Webstoemp",
+      "url": "https://www.webstoemp.com/blog/headless-cms-graphql-api-eleventy/",
+      "description": "With Eleventy, consuming data coming from a GraphQL API to generate static pages is as easy as using Markdown files.",
+      "id": "4606b168-21a6-49df-8536-a2a00750d659"
+    },
+    {
+      "pageTitle": "Amelia Wattenberger",
+      "url": "https://wattenberger.com/guide/scaling-svg",
+      
+      "id": "4943edf4-05e8-4358-8ec4-8ec7662c4175"
+    },
+    {
+      "pageTitle": ".a-pull: A CSS algorithm for pulling one box outside another | Lara Schenck",
+      "url": "https://notlaura.com/css-algorithm-pull/",
+      "description": "Design Engineer",
+      "id": "4ae2c47d-1182-4c2d-ae01-7772b16e9887"
+    },
+    {
+      "pageTitle": "\n    Should a website work without JavaScript? | CSS-Tricks  ",
+      "url": "https://css-tricks.com/should-a-website-work-without-javascript/",
+      "description": "The JS Party podcast just had a fun episode where they debated this classic question by splitting into two groups of two. Each group was assigned a \"side\"",
+      "id": "4b0f6766-31da-4915-9dd5-d0e9c9235d7f"
+    },
+    {
+      "pageTitle": "\n    How I Learned to Stop Worrying and Love Git Hooks | CSS-Tricks  ",
+      "url": "https://css-tricks.com/how-i-learned-to-stop-worrying-and-love-git-hooks/",
+      "description": "The merits of Git as a version control system are difficult to contest, but while Git will do a superb job in keeping track of the commits you and your",
+      "id": "4fb83a63-1a3c-4f54-9779-a916af663b5a"
+    },
+    {
+      "pageTitle": "CSS { In Real Life } | Debugging CSS Grid – Part 2: What the Fr(action)?",
+      "url": "https://css-irl.info/debugging-css-grid-part-2-what-the-fraction/",
+      "description": "CSS In Real Life is a blog covering CSS topics and useful snippets on the web’s most beautiful language. Published by Michelle Barker, front end developer at Ordoo and CSS superfan.",
+      "id": "50ec37de-2317-4493-a30f-c9a3a1660a31"
+    },
+    {
+      "pageTitle": "An In-Depth Tutorial of Webmentions + Eleventy",
+      "url": "https://sia.codes/posts/webmentions-eleventy-in-depth/?utm_campaign=the%20New%20Dynamic&utm_medium=email&utm_source=Revue%20newsletter",
+      "description": "Add Webmentions to your Eleventy static site with this step-by-step tutorial.",
+      "id": "53f5ba65-8c5f-4931-bfa6-a93ddb65ac16"
+    },
+    {
+      "pageTitle": "\n    Static First: Pre-Generated JAMstack Sites with Serverless Rendering as a Fallback | CSS-Tricks  ",
+      "url": "https://css-tricks.com/static-first-pre-generated-jamstack-sites-with-serverless-rendering-as-a-fallback/",
+      "description": "You might be seeing the term JAMstack popping up more and more frequently. I’ve been a fan of it as an approach for some time. One of the principles of",
+      "id": "59fdce3c-d146-49f4-bb74-a928b71c9dbd"
+    },
+    {
+      "pageTitle": "Motion Paths - Past, Present and Future | Codrops",
+      "url": "https://tympanus.net/codrops/2019/12/03/motion-paths-past-present-and-future/",
+      "description": "Let's explore a few ways of moving an element along a path, including the upcoming CSS motion path module and the newly released GSAP3.",
+      "id": "5a9bcffc-8043-4d75-953c-150d5b681c47"
+    },
+    {
+      "pageTitle": "Open Props: sub-atomic styles",
+      "url": "https://open-props.style/",
+      "description": "Open source CSS custom properties to help accelerate adaptive and consistent design. Available from a CDN or NPM, as CSS or Javascript.",
+      "id": "5iLBc0N8GcUZlUIMZOqzn2"
+    },
+    {
+      "pageTitle": "Adding Dynamic And Async Functionality To JAMstack Sites — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2019/12/dynamic-async-functionality-jamsstack-websites/",
+      "description": "Skipping servers and using the JAMstack to build and deliver websites and apps can save time, money, and headache by allowing us to deliver only static assets on a CDN. But the trade-off of ditching traditional server-based deployments means that standard approaches to dynamic, asynchronous interactions in our sites and apps aren’t available anymore.<br /><br />Does that mean that JAMstack sites can’t handle dynamic interactions? Definitely not!<br /><br />JAMstack sites are great for creating highly dynamic, asynchronous interactions. With some small adjustments to how we think about our code, we can create fun, immersive interactions using only static assets!",
+      "id": "62205707-0ea3-4a2f-9102-1ae5cae80d02"
+    },
+    {
+      "pageTitle": "\n    Smoother & sharper shadows with layered box-shadows | Tobias Ahlin\n  ",
+      "url": "https://tobiasahlin.com/blog/layered-smooth-box-shadows/",
+      "description": "With a simple CSS trick, we can get fine-tuned control over how shadows are rendered, and create richer and more realistic 3D effects",
+      "id": "641b50aa-8a34-47d1-906b-b84d6ebb7078"
+    },
+    {
+      "pageTitle": "\n    The future is bright, because the future is static | CSS-Tricks  ",
+      "url": "https://css-tricks.com/the-future-is-bright-because-the-future-is-static/",
+      "description": "I've been doing this web thing for money for 10 years this year and although I haven’t been around as long as some folks, I feel like I've seen a few",
+      "id": "65fc1cef-c17c-4344-b21b-95322878ff03"
+    },
+    {
+      "pageTitle": "CSS { In Real Life } |  Amending Your Past Commits with Git",
+      "url": "https://css-irl.info/amending-your-past-commits-with-git/",
+      "description": "CSS In Real Life is a blog covering CSS topics and useful snippets on the web’s most beautiful language. Published by Michelle Barker, front end developer at Ordoo and CSS superfan.",
+      "id": "6672c701-5a0c-490a-bab0-8fefe234999a"
+    },
+    {
+      "pageTitle": "Rebuild cron · GitHub",
+      "url": "https://gist.github.com/stefanjudis/d9a814bf59c8eadc979feaa32f6c2398",
+      "description": "A gist for a GitHub action to rebuild your Netlify-hosted site daily at midnight.",
+      "id": "6767hKvotZbXoISThbo0GQ"
+    },
+    {
+      "pageTitle": "Make it Boring - Jeremy Wagner - JSConf US 2019 - YouTube",
+      "url": "https://m.youtube.com/watch?v=OikwaVcdHG4",
+      "description": "A good case can be made for why boring is preferable to exciting in many aspects of our lives. Yet, we're reluctant to apply this sentiment to the web. Rathe...",
+      "id": "6aba6eeb-33fc-4c60-bc86-d501e6d427dd"
+    },
+    {
+      "pageTitle": "How to use Puppeteer in a Netlify (AWS Lambda) function",
+      "url": "https://bitsofco.de/how-to-use-puppeteer-in-a-netlify-aws-lambda-function/",
+      "description": "",
+      "id": "6e89be3a-b93b-4594-bca6-18e74d986b5b"
+    },
+    {
+      "pageTitle": "Julia Gfrörer on Twitter: \"Tumblr screwed us, Facebook screwed us, and eventually Twitter will screw us too. If you want a cheap, accessible platform to make friends and share your art that will never screw you to make a buck, my friend, it's time to get into zines… https://t.co/DUHRteAJmP\"",
+      "url": "https://twitter.com/thorazos/status/1158556879485906944?s=12",
+      
+      "id": "729408d7-5e6b-4b2c-98e7-c472b67b9351"
+    },
+    {
+      "pageTitle": "Create A Bookmarking Application With FaunaDB, Netlify And 11ty — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2019/10/bookmarking-application-faunadb-netlify-11ty/",
+      "description": "In this article, we’ll create a personal bookmarking site using FaunaDB, Netlify Functions and 11ty data files.",
+      "id": "75c6c086-257a-4e4b-a190-a2c1eefcafa0"
+    },
+    {
+      "pageTitle": "Adactio: Journal—Third party",
+      "url": "https://adactio.com/journal/16099",
+      "description": "Imagine a web where cookies and JavaScript had to be self-hosted.",
+      "id": "7716e6d9-c698-4c9b-b7c8-97a17a1985c4"
+    },
+    {
+      "pageTitle": "Pixelr",
+      "url": "https://pixelr.art/",
+      "description": "Convert any image into pixel art",
+      "id": "7x5hkJBuoJKga49kaRs0dI"
+    },
+    {
+      "pageTitle": "5 built-in Next.js features you absolutely should check out - DEV Community",
+      "url": "https://dev.to/jameswallis/5-built-in-next-js-features-you-absolutely-should-check-out-4k8e",
+      "description": "Introduction   Recently I've been using Next.js both at work and on after-work projects. Nex... Tagged with webdev, javascript, nextjs, react.",
+      "id": "7x5hkJBuoJKga49kaUxw8o"
+    },
+    {
+      "pageTitle": "Blog - bryanlrobinson.com",
+      "url": "https://bryanlrobinson.com/blog/",
+      
+      "id": "8535a92b-5711-48ab-ba31-743c4c763741"
+    },
+    {
+      "pageTitle": "Using Eleventy's (11ty) JavaScript Data Files - bryanlrobinson.com",
+      "url": "https://bryanlrobinson.com/blog/2019/04/02/using-eleventys-javascript-data-files/",
+      "description": "I enjoy building workflows for pure static sites. I enjoy ingesting data into my build process instead of loading my client-side with fetches. In this example, we'll use Eleventy's ability to use a JavaScript file, to execute code to fetch data on site build, negating the need for task runners like Gulp.",
+      "id": "856aa43d-37b3-450b-82ed-5a6ed3ceb0b3"
+    },
+    {
+      "pageTitle": "Scheduling Jekyll posts with Netlify and GitHub Actions - Human Who Codes",
+      "url": "https://humanwhocodes.com/blog/2019/10/scheduling-jekyll-posts-netlify-github-actions/",
+      "description": "Last year, I wrote about how to schedule Jekyll posts using Netlify and AWS Lambda[^1]. I used that approach from the moment I wrote that blog post up until today. What changed? In...",
+      "id": "890611c1-28cb-4e03-85c9-831ed272ee5b"
+    },
+    {
+      "pageTitle": "CSS Architecture for Modern JavaScript Applications - MadeByMike",
+      "url": "https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications/",
+      "description": "My attempt to modernise some learnings from CSS architecture and how to apply them in the context of modern JavaScript applications.",
+      "id": "89b31578-bf16-4d82-8406-8fba3b13385f"
+    },
+    {
+      "pageTitle": "A Developer Relations Bill of Rights | by Anil Dash | Glitch | Medium",
+      "url": "https://medium.com/glitch/a-developer-relations-bill-of-rights-21381920e273",
+      "description": "Seventeen years ago, Joel Spolsky wrote the Joel Test, a broad framework advocating for empowering developers and investing in their work. Even as these ideas have evolved or specific rules became a…",
+      "id": "8JPNwloaFyM37FBiCigxka"
+    },
+    {
+      "pageTitle": "Accessibility checklist – Benjy Stanton",
+      "url": "https://www.benjystanton.co.uk/blog/accessibility-checklist/",
+      "description": "A list of accessibility recommendations, tips and resources.",
+      "id": "8adecc0e-7005-425a-af3d-b871340b92e1"
+    },
+    {
+      "pageTitle": "How (Not) to Build a Button | Ben Myers",
+      "url": "https://blog.benmyers.dev/clickable-divs/",
+      "description": "When you reinvent the wheel, you might miss a few spokes.",
+      "id": "8f5e433a-d608-437e-9f75-3b512187c3f2"
+    },
+    {
+      "pageTitle": "\n    Masking GIFs with other GIFs | CSS-Tricks  ",
+      "url": "https://css-tricks.com/masking-gifs-with-other-gifs/",
+      "description": "The other day, Cassie Evans tweeted a really neat trick that I’ve never seen before: using SVG to mask one GIF on top of another. The effect is quite",
+      "id": "945910ac-2042-41af-b473-10cf17a9b8ba"
+    },
+    {
+      "pageTitle": "JAMstack for Clients - Bejamas",
+      "url": "https://bejamas.io/blog/jamstack-for-clients/",
+      "description": "How to clearly and effectively communicate the benefits of JAMstack with your prospects and your clients?",
+      "id": "968d4523-5cf4-431b-a0cf-de1c5ec70a78"
+    },
+    {
+      "pageTitle": "What The Heck Is GraphQL? | Ladybug Podcast 🐞 ",
+      "url": "https://ladybug.dev/episode/what-the-heck-is-graphql/",
+      "description": "GraphQL has taken this industry by storm, but what is it exactly? In this special episode of the Ladybug Podcast we’ve invited 14 GraphQL experts from the community to educate us on all things GraphQL!",
+      "id": "9a3a0b07-4b6c-4851-ace3-5066cc77f263"
+    },
+    {
+      "pageTitle": "\n    The Many Ways to Link Up Shapes and Images with HTML and CSS | CSS-Tricks  ",
+      "url": "https://css-tricks.com/the-many-ways-to-link-up-shapes-and-images-with-html-and-css/",
+      "description": "Different website designs often call for a shape other than a square or rectangle to respond to a click event. Perhaps your site has some kind of tilted",
+      "id": "9bd13cb4-ecd0-4a8c-a57f-baabd405425b"
+    },
+    {
+      "pageTitle": "\n  \n    Seven JAMstack Podcasts We Love | Netlify\n  \n",
+      "url": "https://www.netlify.com/blog/2019/09/30/seven-jamstack-podcasts-we-love/?utm_source=twitterpodcastsd&utm_medium=twitter&utm_campaign=devex",
+      "description": "\n  \n    In honor of International Podcast Day, we thought we'd share a few JAMstack Podcasts we love!\n  \n",
+      "id": "9fedd299-9b2d-4816-997e-13f036348bea"
+    },
+    {
+      "pageTitle": "Pizza Dough Recipe - NYT Cooking",
+      "url": "https://cooking.nytimes.com/recipes/1017931-pizza-dough",
+      "description": "This pizza dough is very easy to put together, and it's enough for four 10-inch-diameter pizzas It is best if prepared in advance and refrigerated overnight Refrigerated dough will keep several days",
+      "id": "BGYlcVeIJZSGoFKb65SaaR"
+    },
+    {
+      "pageTitle": "eleventy-plugin-ghost/.eleventy.js at main · daviddarnes/eleventy-plugin-ghost · GitHub",
+      "url": "https://github.com/daviddarnes/eleventy-plugin-ghost/blob/main/.eleventy.js#L1-L8",
+      "description": "Access the Ghost Content API in Eleventy 👻🎛. Contribute to daviddarnes/eleventy-plugin-ghost development by creating an account on GitHub.",
+      "id": "Bo3H2prJdZUj6cv1dXo5yB"
+    },
+    {
+      "pageTitle": "How to Write Better Technical Content | Draft.dev",
+      "url": "https://draft.dev/learn/writing/how-to-write-better-technical-content",
+      "description": "If you're a subject matter expert who wants to start creating in-depth technical content, this guide will give you the steps you can take to improve as a writer.",
+      "id": "EIaBa8lfTSvvg9OcNcwrrj"
+    },
+    {
+      "pageTitle": "Yeet. Delete. Repeat.",
+      "url": "https://www.jason.af/yeet-delete-repeat",
+      "description": "We need to ship fast, learn fast — and do it all without burying ourselves in technical debt. Here's one way to set up your team for success.",
+      "id": "Infe9q5RcRVqGCWLp0DwTT"
+    },
+    {
+      "pageTitle": "\n    Design v18 | CSS-Tricks  ",
+      "url": "https://css-tricks.com/design-v18/",
+      "description": "CSS Tricks redesigned again! Version 18. This is an interesting writeup from Chris Coyier on his process.",
+      "id": "Infe9q5RcRVqGCWLp0co3b"
+    },
+    {
+      "pageTitle": "\n    How to move a 400-person hackathon online - juricho.me\n  ",
+      "url": "https://www.juricho.me/posts/online-hackathon/",
+      
+      "id": "JtApmkyAs5Fi3aTDSplFwx"
+    },
+    {
+      "pageTitle": "Things You Can Do With CSS Today — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/",
+      "description": "The present and future of CSS are very bright indeed and if you take a pragmatic, progressive approach to your CSS, then things will continue to get better and better on your projects, too.",
+      "id": "L1Cr7Sb4J4f3afaI3YX6Nj"
+    },
+    {
+      "pageTitle": "Making a Parallax SVG Landscape - new site part 1 - Alistair Shepherd",
+      "url": "https://alistairshepherd.uk/writing/parallax-svg-landscape-1/",
+      "description": "A parallax SVG landscape in the style of Firewatch, using HTML, CSS, SVG and a sprinkle of JavaScript.",
+      "id": "L1Cr7Sb4J4f3afaI3YYAw9"
+    },
+    {
+      "pageTitle": "Make Free Stuff | Max Böck",
+      "url": "https://mxb.dev/blog/make-free-stuff/",
+      "description": "On web3, Wordle and the radical concept of building things for free.",
+      "id": "RBpVI7HiEhgLCq1q50hOql"
+    },
+    {
+      "pageTitle": "readme.so - Easiest Way to Create A README",
+      "url": "https://readme.so/",
+      "description": "Use readme.so's markdown editor and ready made templates to easily create a simple README for your repositories",
+      "id": "RH6Eo7wIdNpmUYgsCZSdC5"
+    },
+    {
+      "pageTitle": "CSS { In Real Life } | A Modern Front End Workflow Part 1: Building a Project Starter with NPM Scripts",
+      "url": "https://css-irl.info/a-modern-front-end-workflow-part-1/",
+      "description": "CSS In Real Life is a blog covering CSS topics and useful snippets on the web’s most beautiful language. Published by Michelle Barker, front end developer at Ordoo and CSS superfan.",
+      "id": "a02d55c9-843a-4407-884b-fe137352b2ea"
+    },
+    {
+      "pageTitle": "CSS Gap creates a bright future for margins in Flex as well as Grid - bryanlrobinson.com",
+      "url": "https://bryanlrobinson.com/blog/gap-provides-bright-future-for-margins-in-flex-as-well-as-grid/",
+      "description": "In this tutorial, we'll take a look at how we've added margins in the past with Flex and how gap makes it so we can have these internal margins with no hacks.",
+      "id": "a916c91a-97a0-49d9-a444-7dd381c98927"
+    },
+    {
+      "pageTitle": "Things We Can’t (Yet) Do In CSS — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2019/11/css-things-cant-yet-do/",
+      "description": "In this article, Rachel Andrew looks at some common layout patterns that we can’t yet do on the web and the CSS Specifications that might let us achieve them in the future.",
+      "id": "ac27ffe8-14b7-4e51-b3da-d074286fa3c8"
+    },
+    {
+      "pageTitle": "I Built A Successful Blog In One Year, And You Can Too; 7 Tips For Enhancing Readership - DEV Community 👩‍💻👨‍💻",
+      "url": "https://dev.to/emmawedekind/i-built-a-successful-blog-in-one-year-and-you-can-too-7-tips-for-enhancing-readership-5f8b",
+      "description": "",
+      "id": "b246b4dc-0084-4979-b99f-c8b187ae03e5"
+    },
+    {
+      "pageTitle": "WebAIM: Web Accessibility for Designers",
+      "url": "https://webaim.org/resources/designers/",
+      
+      "id": "bc2949f8-fa58-44a4-a3b9-98badd3045a0"
+    },
+    {
+      "pageTitle": "Making a Better Custom Select Element ◆ 24 ways",
+      "url": "https://24ways.org/2019/making-a-better-custom-select-element/",
+      
+      "id": "bf098c4b-3bbd-499a-bbf4-bc69e15e2841"
+    },
+    {
+      "pageTitle": "European-Style Hearth Bread | King Arthur Baking",
+      "url": "https://www.kingarthurbaking.com/recipes/european-style-hearth-bread-recipe",
+      "description": "European style hearth bread made with a poolish.",
+      "id": "bniNfVJZIl9JdqAvkdMH8V"
+    },
+    {
+      "pageTitle": "Asset Pipelines in Eleventy | Max Böck",
+      "url": "https://mxb.dev/blog/eleventy-asset-pipeline/",
+      "description": "While some SSGs have a standardized way of handling assets, Eleventy does not. That's a good thing! Here are a few possible approaches you can take.",
+      "id": "btIujVUaQMY6qaWz2Vq6RD"
+    },
+    {
+      "pageTitle": "CSS Doodle",
+      "url": "https://css-doodle.com/",
+      "description": "A web component for drawing patterns with CSS",
+      "id": "cda5c355-fc1f-4bf6-95ab-993de427b5e0"
+    },
+    {
+      "pageTitle": "My site for testing",
+      "url": "https://bryanlrobinson.com/",
+      "description": "Some description",
+      "id": "cfc47ed3-ffb1-42b8-a2b9-f0dcbd5a4b7b"
+    },
+    {
+      "pageTitle": "\n  \n    What are Microservices? | Netlify\n  \n",
+      "url": "https://www.netlify.com/blog/2019/11/18/what-are-microservices/?utm_source=twitter&utm_medium=microservice-sad&utm_campaign=devex",
+      "description": "\n  \n    Let's break down what we mean when we talk about microservices.\n  \n",
+      "id": "d3eb719c-92b7-4690-a3a5-f3ec10e4cc90"
+    },
+    {
+      "pageTitle": "A Podcast examining the best of the JAMstack community - That's My JAM...stack",
+      "url": "https://thatsmyjamstack.com/",
+      
+      "id": "d77a7de8-c920-4364-9b2e-c5f0c6864be2"
+    },
+    {
+      "pageTitle": "How To Bake the Perfect Sourdough Boule in Your Dutch Oven - Recipe + Video Instructions • Butter For All",
+      "url": "https://www.butterforall.com/traditional-cooking-traditional-living/how-to-bake-the-perfect-sourdough-boule-in-your-dutch-oven/",
+      "description": "Get the easy recipe and instructions for baking a big and beautiful, fully fermented, soft and chewy, Perfect Sourdough Boule in your Dutch Oven!",
+      "id": "dcH9J9vgi366ZXLkrsApW6"
+    },
+    {
+      "pageTitle": "Firefox’s fight for the future of the web | Firefox | The Guardian",
+      "url": "https://amp.theguardian.com/technology/2019/nov/17/firefox-mozilla-fights-back-against-google-chrome-dominance-privacy-fears?__twitter_impression=true",
+      "description": "With Google’s Chrome dominating the market,  not-for-profit rival Mozilla is staking a comeback on its dedication to privacy",
+      "id": "dd66bc67-3fd6-4354-9cfc-29a121f3d48f"
+    },
+    {
+      "pageTitle": "Code comfort: Eleventy and webpack | BryceWray.com",
+      "url": "https://brycewray.com/posts/2019/12/code-comfort-eleventy-webpack/",
+      "description": "Excerpts from my Eleventy/webpack configuration.",
+      "id": "dfe6bc85-4aab-426a-b4d7-7a17172efb3c"
+    },
+    {
+      "pageTitle": "Classic cheese scones | BBC Good Food",
+      "url": "https://www.bbcgoodfood.com/recipes/1666638/classic-cheese-scones",
+      "description": "Classic cheese scones",
+      "id": "e0fbd05a-ed02-4453-ade0-7de69d76d268"
+    },
+    {
+      "pageTitle": "\n    Build a state management system with vanilla JavaScript | CSS-Tricks  ",
+      "url": "https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/",
+      "description": "Managing state is not a new thing in software, but it’s still relatively new for building software in JavaScript. Traditionally, we’d keep state within",
+      "id": "ec666ec7-658a-4ee5-973b-4ad0c6b80606"
+    },
+    {
+      "pageTitle": "Happy Hues",
+      "url": "https://www.happyhues.co/",
+      
+      "id": "edb4d92e-03fb-4237-8ac0-7743216bac53"
+    },
+    {
+      "pageTitle": "Creativity In A World Of Technology: Does It Exist? — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2020/12/creativity-technology/",
+      "description": "Technology has done our world wonders: from advancements in medicine, travel, communication, and not to mention our own day-to-day lives. There’s no doubt that it has “transformed human experience” by impacting the way our society functions, as well as how we interact with one another and ourselves. But is this actually a good thing?",
+      "id": "eeFdCJP9UQGcsDeuFczouw"
+    },
+    {
+      "pageTitle": "Coding Fonts on CSS-Tricks",
+      "url": "https://coding-fonts.css-tricks.com/",
+      "description": "Information about coding fonts: designers, character charts, features, and more.",
+      "id": "eeFdCJP9UQGcsDeuFhpo49"
+    },
+    {
+      "pageTitle": "Demystifying Modern Frontend Jargon - DEV Community 👩‍💻👨‍💻",
+      "url": "https://dev.to/ananyaneogi/demystifying-modern-frontend-jargon-1agf",
+      "description": "Simplifying some confusing frontend related terms with very limited to no code examples!",
+      "id": "f2d5bb96-ecc9-4288-a456-526fd8ceab11"
+    },
+    {
+      "pageTitle": "CSS { In Real Life } |  7 Uses for CSS Custom Properties",
+      "url": "https://css-irl.info/7-uses-for-css-custom-properties/",
+      "description": "CSS In Real Life is a blog covering CSS topics and useful snippets on the web’s most beautiful language. Published by Michelle Barker, front end developer at Ordoo and CSS superfan.",
+      "id": "f387f4b4-8789-4d00-b2c0-66d181ee457c"
+    },
+    {
+      "pageTitle": "Curated list of project-based frontend tutorials [Project-Based Learning Frontend] - DEV Community 👩‍💻👨‍💻",
+      "url": "https://dev.to/binconsole/curated-list-of-project-based-tutorials-project-based-learning-frontend-3c8l",
+      "description": "",
+      "id": "f7634176-31a1-4d52-a898-b5e40e6ff353"
+    },
+    {
+      "pageTitle": "JAMstack SEO Guide: The Ultimate Guide For Beginners - Bejamas",
+      "url": "https://bejamas.io/blog/jamstack-seo-guide/?ref=quuu&utm_content=buffer1db96&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+      "description": "Whether you are running a JAMstack website or not this is a comprehensive overview of everything you need to know to be successful at SEO.",
+      "id": "f9db4463-41c8-41e0-984c-2765b61be7c0"
+    },
+    {
+      "pageTitle": "\n    Oh, the Places JavaScript Will Go | CSS-Tricks  ",
+      "url": "https://css-tricks.com/oh-the-places-javascript-will-go/",
+      "description": "I tend to be pretty vocal about the problems client-side JavaScript cause from a performance perspective. We're shipping more JavaScript than ever to our...",
+      "id": "fc321acd-71b9-439d-b65a-617f56191c6c"
+    },
+    {
+      "pageTitle": "The tale of three dots in Javascript - DEV Community 👩‍💻👨‍💻",
+      "url": "https://dev.to/blacksonic/the-tale-of-three-dots-in-javascript-4287",
+      "description": "One upon a time, there was a significant upgrade to the Javascript language called ES6/ES2015. It introduced many different new features. One of them was the three consecutive dots that we can write in front of any compatible container (objects, arrays, strings, sets, maps). These tiny little dots enable us to write a more elegant and concise code. I'll explain how the three dots work and show the most common use-cases.",
+      "id": "fec06faf-b700-408c-a9ce-b52b9cf56e37"
+    },
+    {
+      "pageTitle": "Colour theory: The ultimate guide | Creative Bloq",
+      "url": "https://www.creativebloq.com/colour/colour-theory-11121290",
+      "description": "Everything you need to know about colour theory, from concepts to terminology.",
+      "id": "ff42395f-1751-4fd2-9eb2-6a657118fa48"
+    },
+    {
+      "pageTitle": "Why I joined Microsoft | Hacker Noon",
+      "url": "https://hackernoon.com/the-best-career-advice-ive-received-so-far-is-never-turn-down-an-interview-7586ca5b7ef8",
+      
+      "id": "fftNKjzQHKYHT3Pp8k0FTA"
+    },
+    {
+      "pageTitle": "Jason Lengstorf on Twitter: \"Au Cheval for a burger (there will be a line)\nKorean BBQ chicken wings — @cassidoo I forgot the name of the place plz halp!\nChicago dog at Portillo’s\nPizza at Pequods\n\n👀… https://t.co/8osPMXONBK\"",
+      "url": "https://twitter.com/jlengstorf/status/1526350032839905285?s=12&t=I5_7-4-fXUKEWKUVclqZdg",
+      
+      "id": "ixSSJw9ZKekB3lVygJNcZa"
+    },
+    {
+      "pageTitle": "\n    Cloudinary Tricks for Video | CSS-Tricks  ",
+      "url": "https://css-tricks.com/cloudinary-tricks-for-video/",
+      "description": "Creating video is time consuming. A well-made 5-minute video can take hours to plan, record, and edit — and that's before we start talking about",
+      "id": "j8deEMcViQHUvHOrEyb5hn"
+    },
+    {
+      "pageTitle": "Towards An Ad-Free Web: Diversifying The Online Economy — Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/2021/01/towards-ad-free-web-diversifying-online-economy/",
+      "description": "The founding principles of the World Wide Web have been warped by years of over-reliance on advertising. Fixing that imbalance and moving toward a more ethical, open web means relaying the foundations, with sites showing other ways are possible.",
+      "id": "j8deEMcViQHUvHOrF6TQPv"
+    },
+    {
+      "pageTitle": "How to Create an Animated SVG Face With CSS - DEV Community",
+      "url": "https://dev.to/5t3ph/how-to-create-an-animated-svg-face-with-css-5djd",
+      "description": "Learn how to create an animated SVG face using CSS animations, transforms, and an optional pinch of J... Tagged with css, webdev, showdev, tutorial.",
+      "id": "j8deEMcViQHUvHOrF6UBJ1"
+    },
+    {
+      "pageTitle": "Newsletters; or, an enormous rant about writing on the web that doesn’t really go anywhere and that’s okay with me - Robin Rendle",
+      "url": "https://www.robinrendle.com/essays/newsletters",
+      "description": "Robin Rendle explores what it means to read and write newsletters and what it can be like in the future.",
+      "id": "j8deEMcViQHUvHOrF6w1ZP"
+    },
+    {
+      "pageTitle": "What Can You Put in a CSS Variable? / Coder's Block",
+      "url": "https://codersblock.com/blog/what-can-you-put-in-a-css-variable/",
+      "description": "CSS variables (also know as CSS custom properties) can hold all sorts of things. Some of these things were not obvious to me, which is why I decided to write...",
+      "id": "j8deEMcViQHUvHOrF8lbbr"
+    },
+    {
+      "pageTitle": "Developer Experience at Netlify",
+      "url": "https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/?utm_source=twitter&utm_medium=dxnetlify-sd&utm_campaign=devex",
+      "description": "The Developer Experience organization at Netlify is quite unique. In this post, we talk through the structure of the organization, how we work, who we are, and some of our team strategies.",
+      "id": "j8deEMcViQHUvHOrFAiANz"
+    },
+    {
+      "pageTitle": "Soft Crust Sourdough Sandwich Bread (no knead) - The Feathered Nester",
+      "url": "https://thefeatherednester.com/sourdough-sandwich-bread/",
+      "description": "Make the BEST fluffy and soft crust sourdough sandwich bread with King Arthur Flour and our easy no-knead overnight rise recipe!",
+      "id": "jDbv30Y7XYH5kl8ZakEFBj"
+    },
+    {
+      "pageTitle": "Hoagie Roll Recipe - Let the Baking Begin!",
+      "url": "https://letthebakingbegin.com/hoagie-roll/#wprm-recipe-container-19331",
+      "description": "Ready for an incredible sandwich? You've got to try this hoagie roll recipe! Each bite is filled with perfectly textured bread.",
+      "id": "lWUUemhEDkYeidZ2y4whlo"
+    },
+    {
+      "pageTitle": "DX Audits – A Framework for Developer Advocacy - Apollo GraphQL Blog",
+      "url": "https://www.apollographql.com/blog/community/devrel/dx-audits-a-framework-for-developer-advocacy/",
+      "description": "We build the Apollo Graph Platform to help developers unify GraphQL across their apps and services.",
+      "id": "m5cl7ciD7CmTUWm5dDagJ0"
+    },
+    {
+      "pageTitle": "How to be an Advocate in DevRel",
+      "url": "https://www.devrelx.com/post/how-to-be-an-advocate-in-devrel",
+      "description": "Advocacy is often the most visible part of a company’s Developer Relations department.  ",
+      "id": "mXd8VX04HWmWwlRaicV1PV"
+    },
+    {
+      "pageTitle": "Sourdough Bagels - Easy Overnight! | Little Spoon Farm",
+      "url": "https://littlespoonfarm.com/sourdough-bagels-recipe/#wprm-recipe-container-2383",
+      "description": "I'm baking a lot and this is my current \"go-to\" recipe for sourdough bagels. They're delicious. ",
+      "id": "psm07HmL4Jzqfr3pnYxXJk"
+    },
+    {
+      "pageTitle": "FELIPE DA SILVA FARIA on Twitter: \"Wanna draw spellcasters? Try conductors as references… \"",
+      "url": "https://twitter.com/felipemuky/status/1512844412304474118?s=12&t=ClwkkXXmnMar4EGrxz7rCQ",
+      
+      "id": "qrQClZ1GKBzQb9skPAcikw"
+    },
+    {
+      "pageTitle": "\n    Mistakes I've Made as an Engineering Manager | CSS-Tricks  ",
+      "url": "https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/",
+      "description": "I’ve been a manager for many years at companies of different scale. Through these experiences, I’ve done my share of learning, and made some mistakes",
+      "id": "rA7rdbWadm07wSEBobEXjW"
+    },
+    {
+      "pageTitle": "Okta Expands Free Identity Management Services, Cloud Native Deployment Options – The New Stack",
+      "url": "https://thenewstack.io/okta-expands-free-identity-management-services-cloud-native-deployment-options/",
+      "description": "Identity management giant Okta has expanded its free tier of authentication, authorization, and user management tools for developers, incorporating support for many cloud native functions.",
+      "id": "rA7rdbWadm07wSEBp9hc5p"
+    },
+    {
+      "pageTitle": "Use Eleventy Templating To Include Static Code Demos | 11ty Rocks!",
+      "url": "https://11ty.rocks/posts/eleventy-templating-static-code-demos/",
+      "description": "Create a single-page site that composites working code examples by leveraging Nunjucks templating abilities and custom collections and shortcodes.",
+      "id": "rA7rdbWadm07wSEBp9ho45"
+    },
+    {
+      "pageTitle": "The Devil's Albatross - An algorithmic layout technique",
+      "url": "https://9elements.com/blog/the-devils-albatros-an-algorithmic-layout-technique/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_285",
+      "description": "Learn how to build an algorithmic layout that switches from two centered elements to a spaced-out flex layout. The navigation/logo example is a design pattern I use a lot and requires breakpoints and custom CSS to handle, usually. Doing it algorithmically is super interesting.",
+      "id": "vy79jLBbbaaSbrT5OvWX0f"
+    },
+    {
+      "pageTitle": "Buttermilk Pancakes from Al's Breakfast",
+      "url": "https://www.recipecircus.com/recipes/Magnolias/BREAKFAST/Buttermilk_Pancakes_from_Al39s_Breakfast.html",
+      
+      "id": "wN14tuXvCtmpXKsDxXKHjo"
+    },
+    {
+      "pageTitle": "Guide to Advanced CSS Selectors - Part Two | Modern CSS Solutions",
+      "url": "https://moderncss.dev/guide-to-advanced-css-selectors-part-two/",
+      "description": "Continuing from part one, this episode will focus on the advanced CSS selectors categorized as pseudo classes and pseudo...",
+      "id": "zrvQ7NcciQLtOvztH0U1dg"
+    }
+  ]

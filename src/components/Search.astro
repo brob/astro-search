@@ -1,0 +1,64 @@
+---
+---
+
+
+<form id="searchForm" class="flex mb-6 items-center max-w-sm mx-auto">   
+    <label for="simple-search" class="sr-only">Search</label>
+    <div class="relative w-full">
+        <input type="text" id="search" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full  p-2.5  dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Search Bookmarks" required />
+    </div>
+    <button type="submit" class="p-2.5 ms-2 text-sm font-medium text-white bg-blue-700 rounded-lg border border-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+        <svg class="w-4 h-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"/>
+        </svg>
+        <span class="sr-only">Search</span>
+    </button>
+</form>
+
+
+
+
+<div class="grid gap-4 mb-10 hidden" id="results">
+    <h2 class="text-xl font-bold mb-2">Search Results</h2>
+</div>
+
+
+
+<script>
+    import { actions } from 'astro:actions'
+
+    const form = document.getElementById('searchForm');
+    const search = document.getElementById('search');
+    const results = document.getElementById('results');
+
+    form?.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        results.innerHTML = '';
+        
+        const query = search.value;
+        const { data, error } = await actions.search(query);
+        if (error) {
+            results.innerHTML = `<p>${error.message}</p>`;
+            return;
+        }
+
+        data.forEach(({item}) => {
+            const div = document.createElement('div');
+            div.innerHTML = `
+
+<a href="${item.data?.url}" class="block p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+
+<h3 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+    ${item.data?.pageTitle}
+</h3>
+<p class="font-normal text-gray-700 dark:text-gray-400">
+    ${item.data?.description}
+    </p>
+</a>`;
+            results.appendChild(div);
+        });
+        results.classList.remove('hidden');
+
+    });
+    
+</script>
